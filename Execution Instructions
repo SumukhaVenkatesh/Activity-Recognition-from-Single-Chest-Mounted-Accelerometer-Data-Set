@@ -5,4 +5,4 @@ The 3 features from the dataset are used to build KNearestNeighbors and Decision
 
 Execution Instructions:
 1.Please execute the notebook in Anaconda 3.0
-2.All the 15 csv files of the 15 participants is the input ( same as source of the data ). In python these 15 files will be merged.
+2.All the 15 csv files of the 15 participants is the input ( same as source of the data ). In python these 15 files will be merged
